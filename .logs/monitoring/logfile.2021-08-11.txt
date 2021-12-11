@@ -1,0 +1,6 @@
+-------------------------------------------------------------
+ServiceControl Monitoring Version:				4.17.0+0.Branch.release-4.17.Sha.ec8277576f5e9f91a7d9c27c00f05c078df93fa4
+Selected Transport:					ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2021-08-11 20:09:26.6199|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2021-08-11 20:15:45.4227|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).

@@ -1,0 +1,9 @@
+{
+  "NServiceBus.OriginatingEndpoint": "ClientUI",
+  "NServiceBus.OriginatingMachine": "DESKTOP-A8N7JOP",
+  "$.diagnostics.originating.hostid": "e57560fd6cbdfd90b93c41793d60402b",
+  "$.diagnostics.hostdisplayname": "DESKTOP-A8N7JOP",
+  "NServiceBus.EnclosedMessageTypes": "NServiceBus.Metrics.EndpointMetadataReport",
+  "NServiceBus.ContentType": "application\/json",
+  "NServiceBus.Transport.Learning.TimeToBeReceived": "7.00:00:00"
+}

@@ -1,0 +1,4 @@
+2021-08-11 20:09:39.1078|15|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2021-08-11 20:14:47.0474|83|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2021-08-11 20:15:54.2315|15|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2021-08-11 23:20:37.2993|3|Warn|Raven.Database.Config.MemoryStatistics|Low memory detected, will try to reduce memory usage...

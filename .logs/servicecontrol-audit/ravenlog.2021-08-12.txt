@@ -1,0 +1,13 @@
+2021-08-12 03:11:06.4702|46|Error|Raven.Client.Changes.RemoteChangesClientBase`3|Got error from server connection for http://localhost on id 1/6dVgQQHsANW/-
+System.AggregateException: One or more errors occurred. ---> System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at Raven.Client.Connection.ObservableLineStream.<Start>b__8_0(Task`1 task)
+   at System.Threading.Tasks.Task.Execute()
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at Raven.Client.Connection.ObservableLineStream.<Start>b__8_0(Task`1 task)
+   at System.Threading.Tasks.Task.Execute()<---
+
+2021-08-12 03:11:14.2604|61|Error|Raven.Client.Changes.RemoteChangesClientBase`3|Got error from server connection for http://localhost on id 1/6dVgQQHsANW/-
+System.TimeoutException: Over 45 seconds have passed since we got a server heartbeat, even though we should get one every 10 seconds or so.
+This connection is now presumed dead, and will attempt reconnection
+2021-08-12 06:11:20.3294|78|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology

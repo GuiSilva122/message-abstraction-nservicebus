@@ -1,0 +1,4 @@
+2021-08-11 20:09:40.3492|13|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2021-08-11 20:14:40.9128|64|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2021-08-11 20:15:55.7178|15|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2021-08-11 23:20:30.1627|58|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
